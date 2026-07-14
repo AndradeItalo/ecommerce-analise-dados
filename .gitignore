@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados gerados pelo pipeline (bronze/silver/gold são reprocessáveis a partir de raw/)
+data/bronze/
+data/silver/
+data/gold/
+
+# Python
+__pycache__/
+*.pyc

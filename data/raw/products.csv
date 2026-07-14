@@ -1,0 +1,607 @@
+product_id,product_name,category,brand,price,stock_quantity,created_at
+155,Quadro Decorativo 256 Genérico,decoracao,Genérico,"8983,68",-1,2025/02/13
+13,Monitor 1pol Multilaser,INFORMATICA,Multilaser,"1208,34",-1,08/02/2025
+545,Máquina de Lavar 256Kg Brastemp,eletrodomesticos,Brastemp,1428.71,-1,
+2,Soundbar 8 AOC,Eletrônicos,AOC,2350.79,4,03-04-2024
+577,Fone de Ouvido Bluetooth 1 AOC,eletronicos,AOC,8307.74,,
+113,Smart TV 4pol Sony,Eletrônicos,Sony,"R$ 1.590,09",-1,03/24/2025
+50,Rack para TV 55 Madesa,Moveis,Madesa,5938.53,95,0000-00-00
+484,Cama Box Casal 1 Artely,MÃ³veis,Artely,,160,2023-08-08T00:00:00
+89,Cama Box Casal 50 Politorno,MÃ³veis,Politorno,8773.17,-1,14/06/2026
+515,Geladeira Frost Free 50L LG,Eletrodomésticos,LG,"R$ 7.193,60",-5,08/13/2023
+529,Caixa de Som 12W Sony,Eletronicos,Sony,1801.87,-1,16/08/2024 00:00
+500,Teclado MecÃ¢nico 65 Acer,INFORMATICA,Acer,4525.27,40,20/02/2026 00:00
+350,Máquina de Lavar 3Kg Electrolux,eletrodomesticos,Electrolux,829.9,-5,2023-10-29
+81,Máquina de Lavar 40Kg Electrolux,eletrodomesticos,Electrolux,"388,07",-1,2023/10/05
+177,Micro-ondas 256L Consul,Eletrodomésticos,Consul,1017.14,,27-09-2024
+312,Notebook 8pol Acer,INFORMATICA,Acer,"R$ 8.657,04",205,07/02/2024
+173,Fone de Ouvido Bluetooth 50 Philips,Eletrônicos,Philips,"2381,35",-1,2024-03-12T00:00:00
+562,Mesa de jantar 2 lugares Politorno,Móveis,Politorno,"R$ 1.762,22",,04/03/2024
+197,Notebook 512pol Acer,INFORMATICA,Acer,5969.58,485,27/08/2024 00:00
+242,Soundbar 4 AOC,Eletrônicos,AOC,2781.77,-1,2025-03-27
+251,Micro-ondas 2L Samsung,eletrodomesticos,Samsung,1236.53,-5,11/28/2024
+125,SSD 12GB Dell,INFORMATICA,Dell,5119.28,-1,2024/10/14
+551,Estante 65 prateleiras Artely,MÃ³veis,Artely,500.61,-1,
+169,Fone de Ouvido Bluetooth 65 Multilaser,Eletronicos,Multilaser,3787.46,-1,19/04/2026
+422,Luminária de Mesa 4 Kappesberg,DecoraÃ§Ã£o,Kappesberg,2745.15,,2024/03/23
+358,Ar Condicionado 55BTUs Samsung,Eletrodomésticos,Samsung,449.17,182,27-04-2024
+4,Micro-ondas 1L LG,Eletrodomésticos,LG,6369.42,-1,02/01/2024
+447,Notebook 12pol Lenovo,informatica,Lenovo,2809.93,448,24-03-2025
+575,Geladeira Frost Free 65L Consul,eletrodomesticos,Consul,"R$ 6.322,34",319,0000-00-00
+593,Teclado Mecânico 65 Positivo,informatica,Positivo,8650.25,-1,2025-02-05
+413,Soundbar 1 AOC,ELETRONICOS,AOC,4766.39,,03/11/2024 00:00
+283,Soundbar 1 Multilaser,eletronicos,Multilaser,"R$ 3.272,09",-5,2023/09/21
+139,Máquina de Lavar 55Kg LG,eletrodomesticos,LG,"R$ 175,74",-5,
+296,Soundbar 512 Samsung,Eletronicos,Samsung,230.09,140,2025/09/25
+61,Cama Box Casal 50 Politorno,moveis,Politorno,5700.55,295,2023/11/14
+175,Geladeira Frost Free 256L Consul,Eletrodomésticos,Consul,3561.14,-5,01/02/2026
+115,Rack para TV 512 Móveis Bento,Moveis,Móveis Bento,3229.1,-5,17/04/2025 00:00
+346,Tapete 32x3 Casa Store,DECORACAO,Casa Store,"7019,67",-1,
+189,Notebook 3pol Dell,informatica,Dell,888.23,,02/10/2024
+495,Caixa de Som 8W Philips,eletronicos,Philips,8465.82,-1,15-11-2024
+164,Monitor 2pol Lenovo,informatica,Lenovo,8311.16,-5,05/15/2024
+433,Máquina de Lavar 4Kg Electrolux,Eletrodomésticos,Electrolux,2768.08,-5,12/01/2026
+270,Notebook 2pol Acer,informatica,Acer,2764.33,-1,07/02/2024
+52,Caixa de Som 32W AOC,Eletronicos,AOC,5712.62,-5,03/13/2026
+581,Vaso Decorativo 4 Trinity,DecoraÃ§Ã£o,Trinity,"6506,77",215,2024-05-19T00:00:00
+389,Smart TV 2pol Philips,EletrÃ´nicos,Philips,2470.64,-1,04/15/2026
+294,Smart TV 12pol Samsung,Eletronicos,Samsung,6528.42,-5,2024-07-24T00:00:00
+83,Guarda-roupa 32 portas Genérico,MOVEIS,Genérico,255.13,-5,2026-01-21T00:00:00
+371,Micro-ondas 2L Electrolux,Eletrodomésticos,Electrolux,1854.99,,10/25/2024
+49,Ar Condicionado 50BTUs Samsung,eletrodomesticos,Samsung,667.54,,04/12/2023
+87,Guarda-roupa 55 portas Artely,Moveis,Artely,"R$ 3.015,56",,09-11-2024
+112,Estante 2 prateleiras Móveis Bento,Moveis,Móveis Bento,5696.57,13,0000-00-00
+372,Tapete 512x3 Casa Store,decoracao,Casa Store,"2697,07",-1,28/04/2024 00:00
+153,Soundbar 32 Philips,Eletrônicos,Philips,"R$ 5.181,39",,29-04-2025
+533,Caixa de Som 128W Sony,eletronicos,Sony,124.57,7,27/08/2024
+582,Fone de Ouvido Bluetooth 128 Sony,ELETRONICOS,Sony,7572.17,-1,26/03/2026 00:00
+235,SSD 256GB Positivo,informatica,Positivo,3942.81,,2023-11-04
+474,Geladeira Frost Free 40L Consul,eletrodomesticos,Consul,"7721,4",-1,19/06/2026 00:00
+183,Geladeira Frost Free 256L Consul,ELETRODOMESTICOS,Consul,"4190,28",-5,2024-05-06
+566,Guarda-roupa 2 portas Móveis Bento,moveis,Móveis Bento,5014.92,482,2025-05-18T00:00:00
+441,SSD 256GB Dell,INFORMATICA,Dell,"R$ 658,16",-1,13/10/2024 00:00
+408,Tapete 3x1 Kappesberg,decoracao,Kappesberg,1514.37,-5,2026-05-02
+299,Quadro Decorativo 128 Casa Store,Decoração,Casa Store,"R$ 3.738,27",,09/01/2026
+589,Luminária de Mesa 55 Casa Store,Decoração,Casa Store,"R$ 6.062,23",,09/09/2025
+397,Mesa de jantar 12 lugares Rudnick,Moveis,Rudnick,4900.64,457,31/10/2023 00:00
+39,Monitor 3pol Acer,informatica,Acer,"R$ 229,37",38,2025/07/20
+594,Teclado Mecânico 2 Multilaser,Informática,Multilaser,"R$ 8.292,48",-1,
+326,Cama Box Casal 3 Genérico,moveis,Genérico,"R$ 3.454,92",-5,2025-02-03
+409,SSD 1GB Dell,INFORMATICA,Dell,"R$ 5.816,37",-1,2024/06/17
+317,Micro-ondas 8L Consul,eletrodomesticos,Consul,5759.55,,2023/07/20
+304,Smart TV 4pol Multilaser,ELETRONICOS,Multilaser,3592.0,483,25/09/2025 00:00
+557,Teclado Mecânico 2 Lenovo,Informática,Lenovo,"R$ 2.915,11",-1,17/08/2024
+548,Teclado Mecânico 2 Lenovo,Informática,Lenovo,"R$ 4.984,57",,15/12/2024 00:00
+148,Máquina de Lavar 65Kg Electrolux,ELETRODOMESTICOS,Electrolux,5440.43,-1,2025-08-06T00:00:00
+388,Quadro Decorativo 6 Genérico,DecoraÃ§Ã£o,Genérico,1983.11,-5,2025-04-01
+313,Smart TV 6pol LG,Eletrônicos,LG,3767.02,,09/12/2023
+258,Smart TV 50pol Multilaser,Eletronicos,Multilaser,"R$ 7.530,76",162,21/02/2026 00:00
+174,Ar Condicionado 4BTUs Electrolux,Eletrodomésticos,Electrolux,"4316,96",419,2025-03-28
+544,Guarda-roupa 2 portas Móveis Bento,MOVEIS,Móveis Bento,1293.72,-5,11/06/2026 00:00
+542,Fone de Ouvido Bluetooth 65 Multilaser,ELETRONICOS,Multilaser,5411.8,407,2026-06-16
+231,Micro-ondas 12L Brastemp,ELETRODOMESTICOS,Brastemp,5475.54,,2023-10-12
+356,Soundbar 32 Philips,Eletrônicos,Philips,7976.48,-1,18/09/2025
+181,Caixa de Som 32W Sony,EletrÃ´nicos,Sony,5480.22,-5,2023-07-21T00:00:00
+380,Guarda-roupa 1 portas Artely,Móveis,Artely,8123.76,140,15/02/2025
+144,Soundbar 512 LG,EletrÃ´nicos,LG,8904.68,-5,2024/09/25
+321,SofÃ¡ 1 lugares GenÃ©rico,MOVEIS,Genérico,"1440,05",,10/11/2025 00:00
+67,Guarda-roupa 6 portas Rudnick,moveis,Rudnick,8688.72,346,23-12-2025
+105,Máquina de Lavar 65Kg Samsung,eletrodomesticos,Samsung,7321.28,177,2024-06-17
+417,Fone de Ouvido Bluetooth 2 AOC,EletrÃ´nicos,AOC,3581.67,,2026-04-23
+390,Tapete 32x3 Genérico,Decoração,Genérico,"8614,27",,2024/02/17
+194,Máquina de Lavar 50Kg Brastemp,eletrodomesticos,Brastemp,6711.13,474,2024-09-12T00:00:00
+473,Sofá 65 lugares Artely,Móveis,Artely,"R$ 5.185,82",-5,2023-09-26
+102,Vaso Decorativo 3 Kappesberg,DecoraÃ§Ã£o,Kappesberg,5452.38,169,2023-10-07
+212,Geladeira Frost Free 8L Electrolux,ELETRODOMESTICOS,Electrolux,1965.95,-1,12-11-2025
+86,Notebook 50pol Positivo,informatica,Positivo,5542.81,-5,2025-07-15T00:00:00
+382,Smart TV 55pol Multilaser,Eletrônicos,Multilaser,667.09,-5,07/09/2024 00:00
+438,Guarda-roupa 128 portas Politorno,moveis,Politorno,8007.93,,06/29/2024
+534,Tapete 256x1 Trinity,Decoração,Trinity,2311.49,,2026-02-14T00:00:00
+314,Caixa de Som 128W AOC,ELETRONICOS,AOC,"R$ 4.515,93",-5,29/07/2025
+297,Fone de Ouvido Bluetooth 3 Multilaser,EletrÃ´nicos,Multilaser,"563,12",487,17/03/2026 00:00
+18,Cama Box Casal 1 Madesa,moveis,Madesa,"R$ 7.225,25",-5,0000-00-00
+572,Caixa de Som 4W AOC,Eletrônicos,AOC,2820.12,36,12/31/2024
+271,Micro-ondas 4L LG,ELETRODOMESTICOS,LG,3993.75,-5,07/23/2023
+134,Micro-ondas 6L Consul,ELETRODOMESTICOS,Consul,135.9,182,0000-00-00
+405,Luminária de Mesa 2 Trinity,decoracao,Trinity,"6509,1",,2024-01-20
+78,Geladeira Frost Free 8L Brastemp,eletrodomesticos,Brastemp,"R$ 5.264,75",-1,2025/08/02
+165,Rack para TV 50 Artely,MOVEIS,Artely,1110.44,351,2026-03-20T00:00:00
+391,Soundbar 50 Multilaser,Eletrônicos,Multilaser,"R$ 5.697,54",-1,2024-11-29
+378,Geladeira Frost Free 12L Electrolux,ELETRODOMESTICOS,Electrolux,7370.94,-1,2026/02/24
+211,Smart TV 65pol Sony,ELETRONICOS,Sony,3893.18,89,2024/12/21
+439,Soundbar 128 Multilaser,Eletrônicos,Multilaser,554.75,-5,2026-05-27
+583,Máquina de Lavar 4Kg Consul,Eletrodomésticos,Consul,5446.00,-1,10/07/2025 00:00
+436,Guarda-roupa 55 portas MÃ³veis Bento,Móveis,Móveis Bento,"R$ 5.874,47",,2023-08-27T00:00:00
+571,Quadro Decorativo 55 Casa Store,Decoração,Casa Store,"R$ 6.523,74",-5,07/12/2025
+470,Tapete 40x2 Kappesberg,decoracao,Kappesberg,1950.39,-1,
+466,Tapete 2x2 Casa Store,decoracao,Casa Store,1797.89,214,25-08-2023
+442,Vaso Decorativo 3 Genérico,decoracao,Genérico,6948.29,482,27-12-2024
+156,Micro-ondas 512L LG,ELETRODOMESTICOS,LG,7635.44,-5,2025-10-31T00:00:00
+455,Teclado Mecânico 65 Samsung,informatica,Samsung,"R$ 8.701,24",474,11/26/2025
+492,Máquina de Lavar 8Kg LG,eletrodomesticos,LG,"2632,18",,03/29/2024
+587,Mesa de jantar 1 lugares Genérico,MOVEIS,Genérico,"R$ 5.094,37",309,13/02/2024 00:00
+446,Micro-ondas 512L Brastemp,eletrodomesticos,Brastemp,6281.19,-1,2026/03/27
+114,Máquina de Lavar 40Kg Samsung,ELETRODOMESTICOS,Samsung,3332.12,-1,15/02/2025 00:00
+332,Sofá 1 lugares Rudnick,moveis,Rudnick,4156.1,,03-04-2026
+132,Geladeira Frost Free 256L Consul,ELETRODOMESTICOS,Consul,"R$ 448,16",238,2024-08-14T00:00:00
+522,Fone de Ouvido Bluetooth 256 Samsung,eletronicos,Samsung,"R$ 719,37",,0000-00-00
+58,Micro-ondas 65L Consul,eletrodomesticos,Consul,753.6,,27/10/2023
+206,Ar Condicionado 256BTUs Consul,eletrodomesticos,Consul,"84,93",,
+234,Vaso Decorativo 256 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"7626,43",429,2025/01/04
+556,Cama Box Casal 6 GenÃ©rico,MÃ³veis,Genérico,8836.55,,28/12/2025
+60,Soundbar 12 Sony,Eletrônicos,Sony,3775.67,-1,2023-09-03
+555,Geladeira Frost Free 6L Consul,eletrodomesticos,Consul,"R$ 823,80",,23-08-2024
+188,Soundbar 2 LG,EletrÃ´nicos,LG,1334.56,107,
+182,Máquina de Lavar 1Kg Samsung,Eletrodomésticos,Samsung,"2727,77",289,2025-07-05
+425,SSD 512GB Positivo,Informática,Positivo,"R$ 6.226,17",136,02/04/2024 00:00
+585,Fone de Ouvido Bluetooth 128 Philips,Eletronicos,Philips,7511.57,338,11-11-2024
+597,Soundbar 65 Multilaser,Eletronicos,Multilaser,2131.69,-5,27-12-2025
+70,Monitor 256pol Dell,Informática,Dell,5659.46,296,25/10/2023 00:00
+485,Fone de Ouvido Bluetooth 3 Philips,Eletrônicos,Philips,5491.6,-5,2023-09-11T00:00:00
+80,Estante 4 prateleiras Rudnick,MÃ³veis,Rudnick,"R$ 3.033,18",,2023-10-19
+584,Estante 32 prateleiras Madesa,Móveis,Madesa,8114.07,4,2024-11-07
+295,Quadro Decorativo 6 Genérico,DECORACAO,Genérico,"R$ 7.632,86",-1,
+595,Fone de Ouvido Bluetooth 32 AOC,eletronicos,AOC,8864.67,391,08-11-2025
+324,Luminária de Mesa 512 Genérico,decoracao,Genérico,8759.99,314,28/01/2025
+323,Caixa de Som 55W Sony,ELETRONICOS,Sony,7290.96,,04/04/2026 00:00
+482,Máquina de Lavar 2Kg LG,ELETRODOMESTICOS,LG,7757.77,-1,20/08/2025 00:00
+418,Mesa de jantar 65 lugares Móveis Bento,Moveis,Móveis Bento,8829.24,,31/01/2024
+506,Quadro Decorativo 12 Kappesberg,DECORACAO,Kappesberg,5134.87,,2025-03-18
+119,Monitor 6pol Acer,INFORMATICA,Acer,"579,82",177,06/05/2024
+264,Monitor 128pol Dell,informatica,Dell,4497.3,-1,2024-10-12
+62,Teclado MecÃ¢nico 8 Samsung,informatica,Samsung,7203.86,,2023/12/13
+336,Caixa de Som 6W AOC,EletrÃ´nicos,AOC,5882.53,-1,22/05/2026 00:00
+7,Luminária de Mesa 512 Trinity,decoracao,Trinity,"R$ 4.075,51",310,01/05/2025
+302,Guarda-roupa 4 portas Artely,Móveis,Artely,"5685,89",380,2026/02/25
+41,Soundbar 4 AOC,Eletrônicos,AOC,4206.66,-5,2023-11-22T00:00:00
+561,SSD 128GB Samsung,informatica,Samsung,7765.31,-5,2024-11-15
+369,Guarda-roupa 50 portas Artely,Móveis,Artely,6793.32,,2026-04-28
+203,Estante 65 prateleiras Móveis Bento,Móveis,Móveis Bento,"R$ 2.020,50",-5,03/04/2025 00:00
+246,Estante 65 prateleiras Genérico,moveis,Genérico,1576.47,-1,16-05-2026
+351,Soundbar 3 Multilaser,Eletronicos,Multilaser,419.43,-1,2026/02/02
+20,Geladeira Frost Free 65L Consul,Eletrodomésticos,Consul,,-5,2024-05-17
+96,Vaso Decorativo 55 Genérico,Decoração,Genérico,8418.43,,29-05-2025
+364,Sofá 3 lugares Politorno,Moveis,Politorno,"8598,03",215,2024-12-11
+306,Vaso Decorativo 8 Casa Store,DecoraÃ§Ã£o,Casa Store,"R$ 404,91",156,0000-00-00
+116,Micro-ondas 4L Samsung,Eletrodomésticos,Samsung,,65,2023-12-20
+138,Teclado Mecânico 12 Dell,INFORMATICA,Dell,825.32,-1,07/02/2026 00:00
+1,Smart TV 6pol Philips,Eletrônicos,Philips,"R$ 280,54",1,
+330,Soundbar 4 Philips,Eletronicos,Philips,6112.05,,2024-09-01T00:00:00
+126,Mesa de jantar 12 lugares Móveis Bento,Móveis,Móveis Bento,5788.17,-1,08/09/2025 00:00
+505,Teclado Mecânico 128 Multilaser,informatica,Multilaser,"8804,95",,12/29/2025
+318,Estante 65 prateleiras Genérico,MOVEIS,Genérico,3133.82,-1,13/09/2024
+236,Guarda-roupa 50 portas GenÃ©rico,MOVEIS,Genérico,5939.19,-5,08/05/2025
+483,Micro-ondas 6L Electrolux,Eletrodomésticos,Electrolux,"5307,18",,2024-08-25T00:00:00
+223,Fone de Ouvido Bluetooth 50 Sony,EletrÃ´nicos,Sony,5404.63,-1,31/10/2023 00:00
+280,Sofá 40 lugares Artely,Moveis,Artely,3217.31,,02-01-2026
+528,Geladeira Frost Free 32L LG,eletrodomesticos,LG,"3234,16",,2024-12-21
+84,Luminária de Mesa 32 Trinity,DecoraÃ§Ã£o,Trinity,6556.37,-5,0000-00-00
+9,Quadro Decorativo 256 Casa Store,DECORACAO,Casa Store,"R$ 4.633,11",,2024/07/04
+216,Ar Condicionado 65BTUs Consul,eletrodomesticos,Consul,"89,96",187,03/20/2026
+311,Máquina de Lavar 55Kg Consul,Eletrodomésticos,Consul,"R$ 2.243,62",,01-09-2023
+458,Máquina de Lavar 6Kg Consul,eletrodomesticos,Consul,6180.47,,12/31/2025
+54,Sofá 40 lugares Genérico,Moveis,Genérico,"R$ 7.814,46",-1,2025-04-21
+394,Vaso Decorativo 1 Trinity,Decoração,Trinity,1690.65,-1,0000-00-00
+91,Smart TV 512pol LG,Eletrônicos,LG,8901.31,-1,24/12/2025
+373,Quadro Decorativo 6 Trinity,DECORACAO,Trinity,8053.77,,20-01-2026
+427,Notebook 65pol Samsung,INFORMATICA,Samsung,6508.2,-1,01/06/2024
+166,Monitor 50pol Acer,Informática,Acer,5392.35,-1,12-09-2023
+453,Sofá 2 lugares Artely,moveis,Artely,6453.89,-1,23-04-2026
+600,Notebook 1pol Multilaser,Informática,Multilaser,5161.56,-5,2026/05/17
+489,Caixa de Som 65W Sony,EletrÃ´nicos,Sony,"R$ 3.613,33",-5,30/01/2026
+88,Cama Box Casal 3 Politorno,Móveis,Politorno,6683.25,382,01-09-2023
+426,Vaso Decorativo 50 Genérico,DECORACAO,Genérico,2069.74,,06/25/2024
+193,Soundbar 2 Samsung,eletronicos,Samsung,3828.94,-5,2025-08-16T00:00:00
+530,Fone de Ouvido Bluetooth 512 LG,ELETRONICOS,LG,"7484,86",,01/01/2025
+459,Notebook 4pol Multilaser,INFORMATICA,Multilaser,2096.17,-1,03/14/2026
+214,Notebook 6pol Dell,INFORMATICA,Dell,4511.1,-1,10/08/2025 00:00
+220,Tapete 2x3 Casa Store,DECORACAO,Casa Store,5770.9,-5,26/07/2024
+21,Mesa de jantar 65 lugares Artely,Moveis,Artely,,-1,09-11-2025
+498,Luminária de Mesa 4 Trinity,DECORACAO,Trinity,"R$ 3.227,95",-1,29/12/2023
+599,Ar Condicionado 128BTUs LG,ELETRODOMESTICOS,LG,960.33,96,2026/02/23
+285,Caixa de Som 12W AOC,eletronicos,AOC,"R$ 668,30",-5,03/25/2026
+403,Micro-ondas 32L Samsung,Eletrodomésticos,Samsung,6309.49,254,08/03/2025 00:00
+12,Quadro Decorativo 8 Casa Store,DecoraÃ§Ã£o,Casa Store,"R$ 8.385,75",,02/16/2025
+476,Teclado Mecânico 8 Samsung,informatica,Samsung,2832.76,-1,2025-04-24
+590,Vaso Decorativo 256 Trinity,decoracao,Trinity,3249.66,,05/22/2026
+558,Fone de Ouvido Bluetooth 256 Multilaser,Eletronicos,Multilaser,"1143,36",-1,2025-11-08
+150,Teclado Mecânico 40 Lenovo,Informática,Lenovo,"914,49",417,12/08/2023
+344,Ar Condicionado 12BTUs LG,Eletrodomésticos,LG,"R$ 4.306,49",-1,2026-04-18T00:00:00
+298,Fone de Ouvido Bluetooth 2 Multilaser,ELETRONICOS,Multilaser,8644.42,452,2025-03-25T00:00:00
+487,Monitor 32pol Lenovo,informatica,Lenovo,2374.67,-1,05/08/2024
+303,Rack para TV 6 Artely,Móveis,Artely,7306.32,424,28/10/2024
+11,Micro-ondas 55L Electrolux,Eletrodomésticos,Electrolux,"R$ 8.556,94",-1,27/02/2026 00:00
+423,Vaso Decorativo 6 Genérico,DECORACAO,Genérico,7281.51,17,01/12/2025
+415,Smart TV 65pol Sony,ELETRONICOS,Sony,5448.63,,2025-11-29T00:00:00
+204,Máquina de Lavar 1Kg Brastemp,eletrodomesticos,Brastemp,5209.42,-1,01/20/2026
+331,Soundbar 55 Samsung,EletrÃ´nicos,Samsung,8411.34,-1,2024-10-02
+176,Monitor 3pol Lenovo,informatica,Lenovo,"1379,59",-1,23/06/2025 00:00
+511,Tapete 512x2 Casa Store,DECORACAO,Casa Store,"6753,91",,0000-00-00
+187,Caixa de Som 3W Sony,ELETRONICOS,Sony,6551.09,,
+395,Micro-ondas 3L Electrolux,eletrodomesticos,Electrolux,7965.62,,2024/06/04
+22,Luminária de Mesa 55 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"R$ 1.920,26",-5,2025-09-02
+63,Quadro Decorativo 12 Trinity,decoracao,Trinity,8805.42,,
+100,Micro-ondas 12L Electrolux,Eletrodomésticos,Electrolux,6538.44,-1,2023-10-24
+525,Soundbar 12 Samsung,Eletrônicos,Samsung,3063.05,-5,14-12-2023
+256,Guarda-roupa 12 portas Artely,MÃ³veis,Artely,2287.42,-5,27/02/2026
+310,Smart TV 50pol Sony,eletronicos,Sony,4226.02,168,05/12/2025
+508,Máquina de Lavar 12Kg Samsung,eletrodomesticos,Samsung,"R$ 1.936,04",242,05/08/2023 00:00
+46,Mesa de jantar 8 lugares Madesa,MÃ³veis,Madesa,"3941,22",-1,2026-05-12
+464,Smart TV 65pol AOC,ELETRONICOS,AOC,731.38,-1,23-08-2024
+260,Vaso Decorativo 50 Kappesberg,decoracao,Kappesberg,7416.64,,30/05/2025
+419,Notebook 256pol Samsung,INFORMATICA,Samsung,"R$ 3.261,90",-1,04-10-2024
+432,Monitor 8pol Multilaser,INFORMATICA,Multilaser,"R$ 8.048,51",-5,2025/10/23
+137,Rack para TV 4 Artely,Moveis,Artely,"R$ 1.220,03",-1,2025-11-08
+230,SSD 40GB Acer,informatica,Acer,"372,46",-5,
+129,Caixa de Som 128W Sony,eletronicos,Sony,"R$ 3.717,27",-1,2024/08/09
+354,Micro-ondas 40L Consul,eletrodomesticos,Consul,,-5,30/11/2024 00:00
+519,Máquina de Lavar 12Kg Consul,Eletrodomésticos,Consul,6308.59,-5,10/01/2026
+104,Vaso Decorativo 40 Trinity,Decoração,Trinity,1931.49,-5,01/22/2025
+75,Cama Box Casal 65 Politorno,Moveis,Politorno,744.8,-5,2025-03-12
+109,Tapete 8x2 Trinity,DecoraÃ§Ã£o,Trinity,"4199,57",-5,28/09/2025
+217,SSD 3GB Dell,INFORMATICA,Dell,"3397,7",-5,2024/01/03
+237,Vaso Decorativo 32 Genérico,Decoração,Genérico,"R$ 2.385,14",,2023/08/01
+38,Vaso Decorativo 3 Genérico,Decoração,Genérico,"R$ 1.453,80",,19/04/2026
+564,Quadro Decorativo 4 Casa Store,DecoraÃ§Ã£o,Casa Store,"R$ 900,87",-5,07/28/2025
+253,Rack para TV 6 Móveis Bento,moveis,Móveis Bento,"8924,99",,12-08-2023
+14,Notebook 512pol Dell,INFORMATICA,Dell,"2739,76",-1,10/12/2023
+51,Micro-ondas 50L Consul,Eletrodomésticos,Consul,7251.14,,08/21/2024
+289,Ar Condicionado 50BTUs LG,eletrodomesticos,LG,4068.01,-5,2023-07-27T00:00:00
+393,Fone de Ouvido Bluetooth 256 Samsung,Eletrônicos,Samsung,,-5,2024-05-12T00:00:00
+537,Vaso Decorativo 256 Trinity,DecoraÃ§Ã£o,Trinity,3704.52,-1,11/05/2024
+147,Cama Box Casal 1 Artely,MÃ³veis,Artely,"R$ 2.401,72",-1,17-06-2024
+367,Quadro Decorativo 32 Trinity,DecoraÃ§Ã£o,Trinity,7619.36,-1,10-12-2025
+410,Tapete 65x2 Trinity,DECORACAO,Trinity,3884.71,412,2024-05-28
+363,Smart TV 128pol Samsung,Eletronicos,Samsung,5202.43,,13/10/2025
+103,Ar Condicionado 4BTUs LG,ELETRODOMESTICOS,LG,5266.83,-5,06/03/2024
+334,Máquina de Lavar 8Kg LG,Eletrodomésticos,LG,"4580,92",-1,2024-10-07T00:00:00
+32,Luminária de Mesa 256 Genérico,DecoraÃ§Ã£o,Genérico,8806.89,,2023-09-15T00:00:00
+15,Tapete 55x2 Trinity,DECORACAO,Trinity,"R$ 5.443,83",-5,2024/10/27
+179,Smart TV 3pol Philips,EletrÃ´nicos,Philips,"7320,79",-1,11-06-2026
+142,Estante 55 prateleiras Rudnick,MÃ³veis,Rudnick,7337.1,-1,06/11/2023
+201,Geladeira Frost Free 32L Electrolux,eletrodomesticos,Electrolux,"R$ 4.300,11",164,11/28/2025
+469,Soundbar 40 Philips,EletrÃ´nicos,Philips,"2297,26",395,2025-09-18
+480,Caixa de Som 32W LG,ELETRONICOS,LG,"R$ 5.537,22",-1,2026/04/10
+319,Monitor 12pol Lenovo,INFORMATICA,Lenovo,"7262,02",-5,09/17/2024
+406,Fone de Ouvido Bluetooth 1 Sony,Eletronicos,Sony,"R$ 4.805,01",,08/07/2025
+239,Notebook 3pol Samsung,informatica,Samsung,2112.68,-1,2025-02-08
+98,Vaso Decorativo 32 Casa Store,DECORACAO,Casa Store,5104.3,226,07/09/2026
+359,Smart TV 55pol Samsung,Eletronicos,Samsung,5565.62,-1,06/08/2025 00:00
+243,Notebook 55pol Multilaser,INFORMATICA,Multilaser,5295.75,-5,2024-12-31T00:00:00
+73,Teclado Mecânico 128 Dell,informatica,Dell,5498.11,,
+377,Rack para TV 6 Móveis Bento,Móveis,Móveis Bento,7451.63,,2026/02/18
+345,Notebook 12pol Multilaser,informatica,Multilaser,"R$ 8.230,04",-1,28/03/2025
+526,Sofá 12 lugares Rudnick,MOVEIS,Rudnick,3243.1,-5,21/06/2025 00:00
+262,LuminÃ¡ria de Mesa 55 GenÃ©rico,decoracao,Genérico,1474.0,-5,2025-02-18T00:00:00
+309,SSD 2GB Dell,INFORMATICA,Dell,"R$ 6.369,58",366,2025-09-29T00:00:00
+552,Guarda-roupa 12 portas Politorno,MÃ³veis,Politorno,"R$ 2.005,04",43,2025-02-11
+71,Quadro Decorativo 256 Casa Store,DecoraÃ§Ã£o,Casa Store,8856.47,-5,18/03/2025 00:00
+106,Geladeira Frost Free 3L Samsung,eletrodomesticos,Samsung,"R$ 4.781,03",-1,09/03/2026 00:00
+449,Máquina de Lavar 4Kg Consul,Eletrodomésticos,Consul,951.26,,22/05/2025 00:00
+379,Tapete 40x1 Casa Store,DecoraÃ§Ã£o,Casa Store,349.47,-5,2026/06/19
+535,Tapete 4x2 Casa Store,DECORACAO,Casa Store,"R$ 8.396,33",,03-07-2024
+140,Soundbar 55 Philips,ELETRONICOS,Philips,1055.75,,2023/07/17
+456,Notebook 40pol Dell,Informática,Dell,3877.69,-5,2025/12/26
+6,Estante 40 prateleiras Artely,MOVEIS,Artely,"R$ 3.233,42",-5,09/18/2025
+596,Guarda-roupa 40 portas Móveis Bento,moveis,Móveis Bento,"R$ 4.819,79",,11/07/2026
+516,Máquina de Lavar 512Kg Brastemp,Eletrodomésticos,Brastemp,"R$ 4.338,73",,10/05/2026 00:00
+128,Soundbar 32 LG,eletronicos,LG,"R$ 4.469,38",268,08/04/2024
+265,Luminária de Mesa 512 Trinity,decoracao,Trinity,"6719,51",-5,14-01-2025
+348,Ar Condicionado 6BTUs Samsung,Eletrodomésticos,Samsung,471.8,-5,
+200,Luminária de Mesa 256 Casa Store,DECORACAO,Casa Store,6327.5,-1,2025-08-14T00:00:00
+362,Caixa de Som 3W AOC,Eletrônicos,AOC,5707.9,-1,11/29/2025
+481,Sofá 40 lugares Artely,moveis,Artely,2142.62,,2025-04-19T00:00:00
+486,Rack para TV 12 Genérico,MOVEIS,Genérico,,-1,2024-04-19T00:00:00
+34,Máquina de Lavar 40Kg LG,eletrodomesticos,LG,"R$ 8.752,91",,04/05/2025
+507,Smart TV 256pol Multilaser,ELETRONICOS,Multilaser,"R$ 5.976,06",-5,22/03/2025 00:00
+97,Quadro Decorativo 3 Genérico,DecoraÃ§Ã£o,Genérico,3161.47,-5,2023/08/15
+457,Mesa de jantar 12 lugares Madesa,Móveis,Madesa,"3764,38",-5,23/01/2026 00:00
+118,Vaso Decorativo 65 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"R$ 3.980,03",-1,2024-10-06T00:00:00
+386,Vaso Decorativo 128 Casa Store,DecoraÃ§Ã£o,Casa Store,"8843,41",9,2023/08/09
+475,Smart TV 8pol AOC,Eletronicos,AOC,1614.71,432,15/09/2025
+77,Cama Box Casal 8 Politorno,Móveis,Politorno,2774.46,-1,2025-01-24T00:00:00
+111,Rack para TV 512 Politorno,MOVEIS,Politorno,3199.39,326,10/22/2025
+149,Luminária de Mesa 3 Trinity,DECORACAO,Trinity,"8970,09",397,20/07/2025 00:00
+127,Notebook 3pol Samsung,Informática,Samsung,346.02,-1,05/09/2025
+340,Soundbar 512 Samsung,Eletrônicos,Samsung,6657.09,-1,12-04-2026
+463,Cama Box Casal 40 Móveis Bento,MOVEIS,Móveis Bento,1729.45,-1,2025-04-26T00:00:00
+424,Micro-ondas 128L LG,Eletrodomésticos,LG,291.7,,2025-03-28T00:00:00
+171,Cama Box Casal 55 Madesa,moveis,Madesa,5534.97,,11/29/2024
+536,Ar Condicionado 65BTUs Electrolux,ELETRODOMESTICOS,Electrolux,4611.45,,07-01-2026
+227,Micro-ondas 512L Brastemp,eletrodomesticos,Brastemp,5466.13,,25-10-2023
+131,Quadro Decorativo 40 Casa Store,Decoração,Casa Store,"R$ 6.040,96",,2023-11-03T00:00:00
+420,Smart TV 512pol Sony,Eletronicos,Sony,"1462,5",-1,07-01-2024
+17,Smart TV 65pol Philips,Eletrônicos,Philips,,,2025-01-29
+589,Luminária de Mesa 55 Casa Store,Decoração,Casa Store,"4367,71",,09/09/2025
+266,Notebook 6pol Acer,informatica,Acer,"R$ 4.030,96",-1,18/07/2025
+435,Micro-ondas 256L LG,ELETRODOMESTICOS,LG,4360.44,,2026-05-09T00:00:00
+143,Fone de Ouvido Bluetooth 4 Samsung,Eletronicos,Samsung,"R$ 1.047,48",-1,08/01/2025
+325,Quadro Decorativo 12 Kappesberg,DecoraÃ§Ã£o,Kappesberg,,-5,2024-02-09
+416,Geladeira Frost Free 55L Brastemp,Eletrodomésticos,Brastemp,"2337,98",-1,18-01-2026
+31,Micro-ondas 512L Samsung,Eletrodomésticos,Samsung,1671.67,224,31-10-2023
+26,Cama Box Casal 4 Genérico,Móveis,Genérico,"R$ 3.740,16",-5,2023-11-06T00:00:00
+387,Geladeira Frost Free 12L Electrolux,Eletrodomésticos,Electrolux,"R$ 8.246,87",-1,
+42,Notebook 512pol Acer,INFORMATICA,Acer,"R$ 967,28",-5,28/10/2023
+110,Quadro Decorativo 512 Trinity,DECORACAO,Trinity,"R$ 7.474,20",,04-08-2023
+588,Monitor 6pol Multilaser,Informática,Multilaser,3808.68,,11/12/2024
+64,Teclado Mecânico 8 Samsung,Informática,Samsung,"171,55",-1,2024/10/24
+361,Monitor 50pol Multilaser,INFORMATICA,Multilaser,,451,2026-01-09T00:00:00
+82,Mesa de jantar 8 lugares Madesa,MOVEIS,Madesa,8966.21,469,
+93,Luminária de Mesa 2 Genérico,DECORACAO,Genérico,591.04,112,
+3,Vaso Decorativo 55 Kappesberg,decoracao,Kappesberg,"5084,34",-5,2024-10-04
+72,LuminÃ¡ria de Mesa 256 GenÃ©rico,Decoração,Genérico,1342.31,-1,26/01/2024 00:00
+123,Smart TV 50pol Philips,EletrÃ´nicos,Philips,3902.07,-1,26/04/2026
+279,Máquina de Lavar 50Kg Electrolux,Eletrodomésticos,Electrolux,"7647,19",-5,06/03/2024
+195,Tapete 1x3 Trinity,DECORACAO,Trinity,5880.01,,2026-06-29T00:00:00
+563,SSD 2GB Samsung,Informática,Samsung,"R$ 1.067,40",-1,2024/09/07
+520,Quadro Decorativo 256 Trinity,DecoraÃ§Ã£o,Trinity,"R$ 4.955,25",,27-12-2023
+477,Teclado Mecânico 12 Samsung,informatica,Samsung,"6446,92",-5,
+232,Vaso Decorativo 3 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"R$ 3.842,60",186,11/20/2023
+288,SSD 128GB Lenovo,informatica,Lenovo,6747.64,-1,23-07-2023
+568,Ar Condicionado 128BTUs Samsung,ELETRODOMESTICOS,Samsung,"5318,77",-1,13/08/2024 00:00
+185,Luminária de Mesa 2 Casa Store,DecoraÃ§Ã£o,Casa Store,"7114,62",,2024-05-30T00:00:00
+308,Guarda-roupa 3 portas Móveis Bento,Moveis,Móveis Bento,8089.17,-5,22-08-2023
+337,Micro-ondas 2L Consul,ELETRODOMESTICOS,Consul,"R$ 5.878,40",4,07/17/2025
+79,Caixa de Som 3W Sony,eletronicos,Sony,2456.82,,0000-00-00
+357,Estante 50 prateleiras Móveis Bento,moveis,Móveis Bento,"6203,04",,17/07/2025
+580,Sofá 128 lugares Madesa,Moveis,Madesa,5931.26,-1,09/25/2023
+510,Quadro Decorativo 1 Kappesberg,DECORACAO,Kappesberg,6261.67,-5,14-08-2023
+412,Teclado Mecânico 256 Multilaser,Informática,Multilaser,5447.16,-1,12/13/2024
+69,Fone de Ouvido Bluetooth 12 Samsung,eletronicos,Samsung,8038.97,-5,0000-00-00
+513,Tapete 32x2 Genérico,DECORACAO,Genérico,"R$ 8.119,40",-5,2025-08-27
+158,Smart TV 8pol LG,ELETRONICOS,LG,6133.46,,03/08/2026
+569,Cama Box Casal 65 Madesa,Móveis,Madesa,"R$ 4.757,19",-5,
+95,Estante 12 prateleiras Politorno,moveis,Politorno,1285.83,242,14/07/2023
+85,Caixa de Som 12W Sony,eletronicos,Sony,1618.08,135,13/06/2024
+20,Geladeira Frost Free 65L Consul,Eletrodomésticos,Consul,"R$ 6.575,21",-5,2024-05-17
+560,Notebook 8pol Acer,INFORMATICA,Acer,"R$ 1.576,84",461,11/05/2024
+172,Tapete 65x2 Casa Store,decoracao,Casa Store,"R$ 177,65",-1,11-10-2023
+524,MÃ¡quina de Lavar 6Kg Samsung,eletrodomesticos,Samsung,"R$ 1.824,80",350,07/01/2026
+55,Teclado Mecânico 40 Dell,Informática,Dell,"5798,45",,19/09/2024
+19,SSD 50GB Lenovo,informatica,Lenovo,"R$ 6.794,37",254,2023/11/19
+238,Micro-ondas 256L LG,eletrodomesticos,LG,810.85,,2024-07-16
+213,Luminária de Mesa 3 Casa Store,decoracao,Casa Store,8591.66,432,2026-04-24T00:00:00
+315,Mesa de jantar 55 lugares Móveis Bento,MÃ³veis,Móveis Bento,6830.81,-1,2024-11-28T00:00:00
+122,Smart TV 8pol LG,ELETRONICOS,LG,1122.28,,22/10/2025 00:00
+291,Vaso Decorativo 128 Kappesberg,decoracao,Kappesberg,7872.22,-5,08/04/2024 00:00
+180,Monitor 256pol Dell,INFORMATICA,Dell,"8330,85",-5,2023-10-02T00:00:00
+8,Caixa de Som 55W Sony,EletrÃ´nicos,Sony,"R$ 7.074,71",-1,23/11/2023 00:00
+254,Teclado Mecânico 50 Dell,Informática,Dell,"7863,21",-5,08/31/2025
+53,Mesa de jantar 12 lugares Genérico,Móveis,Genérico,6776.64,-1,2025-06-06T00:00:00
+28,Sofá 12 lugares Politorno,moveis,Politorno,,-1,31-07-2025
+444,Rack para TV 40 GenÃ©rico,MÃ³veis,Genérico,,-1,10/07/2025 00:00
+224,Geladeira Frost Free 55L LG,eletrodomesticos,LG,3159.56,-5,10/24/2024
+130,Máquina de Lavar 65Kg Consul,ELETRODOMESTICOS,Consul,2266.2,-1,17-09-2023
+328,Tapete 12x2 Kappesberg,decoracao,Kappesberg,7391.34,70,13-02-2025
+501,Monitor 55pol Lenovo,Informática,Lenovo,"R$ 2.721,59",,05-08-2023
+162,Notebook 12pol Positivo,informatica,Positivo,2110.49,,2025-05-04T00:00:00
+219,Vaso Decorativo 32 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"R$ 6.351,80",190,2024-09-10
+261,Teclado Mecânico 65 Multilaser,informatica,Multilaser,"R$ 2.073,62",-5,18/06/2025
+339,Teclado Mecânico 12 Acer,informatica,Acer,"R$ 8.789,31",-1,23-09-2023
+221,Soundbar 256 Samsung,EletrÃ´nicos,Samsung,6506.3,-1,2026/02/05
+549,Tapete 40x3 Kappesberg,decoracao,Kappesberg,"2378,85",-1,
+440,Notebook 256pol Positivo,Informática,Positivo,"R$ 1.390,34",-5,09/08/2024
+598,Micro-ondas 6L LG,ELETRODOMESTICOS,LG,"R$ 8.679,46",382,01/07/2025
+320,Micro-ondas 6L Samsung,Eletrodomésticos,Samsung,"6945,37",-5,2026-02-07T00:00:00
+512,Sofá 512 lugares Genérico,MOVEIS,Genérico,,-5,06/15/2025
+570,Micro-ondas 3L LG,Eletrodomésticos,LG,"R$ 825,41",,2023-12-18
+257,Teclado Mecânico 1 Lenovo,Informática,Lenovo,"R$ 5.576,11",-1,2024/02/03
+547,Teclado Mecânico 12 Acer,informatica,Acer,4892.52,,2024/11/07
+479,Monitor 2pol Lenovo,INFORMATICA,Lenovo,"1637,18",-1,2024/11/20
+65,Rack para TV 32 Móveis Bento,MÃ³veis,Móveis Bento,2729.39,-5,2025/12/18
+493,Monitor 256pol Positivo,informatica,Positivo,7975.76,-5,12/05/2026 00:00
+365,Teclado Mecânico 512 Positivo,INFORMATICA,Positivo,"R$ 6.757,03",305,2024-08-11T00:00:00
+400,Estante 128 prateleiras Politorno,Moveis,Politorno,"R$ 3.929,64",-1,30-06-2025
+523,Ar Condicionado 256BTUs Electrolux,Eletrodomésticos,Electrolux,"65,15",-1,2025/05/08
+531,Caixa de Som 50W AOC,eletronicos,AOC,4131.78,-5,2025-05-12T00:00:00
+151,Tapete 12x1 Genérico,DECORACAO,Genérico,"2061,31",369,13-06-2025
+33,Notebook 40pol Acer,Informática,Acer,4627.31,,0000-00-00
+68,SSD 55GB Samsung,INFORMATICA,Samsung,"4984,64",,17/09/2024
+44,Notebook 32pol Dell,Informática,Dell,"R$ 2.190,53",,09/10/2023 00:00
+538,Vaso Decorativo 2 Kappesberg,DECORACAO,Kappesberg,5786.68,,0000-00-00
+497,Soundbar 12 LG,Eletrônicos,LG,"6455,79",186,24/08/2024 00:00
+59,Sofá 2 lugares Genérico,moveis,Genérico,6155.17,266,0000-00-00
+411,Rack para TV 50 Rudnick,Móveis,Rudnick,6964.05,-5,2024/01/22
+163,Máquina de Lavar 12Kg Electrolux,ELETRODOMESTICOS,Electrolux,"R$ 5.722,04",154,2024/03/16
+414,Notebook 65pol Dell,Informática,Dell,5037.62,,2025-09-16T00:00:00
+461,Guarda-roupa 128 portas Móveis Bento,moveis,Móveis Bento,"2141,49",481,14/10/2024 00:00
+273,Rack para TV 40 Politorno,Móveis,Politorno,"6775,18",-1,2024/05/14
+48,Soundbar 1 LG,eletronicos,LG,6738.67,45,05-09-2024
+428,Quadro Decorativo 6 Casa Store,decoracao,Casa Store,,,
+467,Vaso Decorativo 256 Casa Store,decoracao,Casa Store,"R$ 7.299,51",-1,02-09-2025
+396,Caixa de Som 256W Philips,Eletrônicos,Philips,"R$ 7.340,46",-1,0000-00-00
+135,SSD 6GB Acer,Informática,Acer,"R$ 6.601,74",,29/08/2023 00:00
+108,Ar Condicionado 6BTUs LG,ELETRODOMESTICOS,LG,4153.81,208,2025-09-29T00:00:00
+208,Notebook 2pol Lenovo,informatica,Lenovo,"R$ 1.624,62",-1,12/10/2025
+36,Mesa de jantar 128 lugares Genérico,moveis,Genérico,3497.76,364,2024/07/17
+496,Vaso Decorativo 6 GenÃ©rico,Decoração,Genérico,3766.11,340,
+430,SSD 3GB Samsung,informatica,Samsung,"3257,09",304,2025/12/08
+207,Smart TV 1pol LG,ELETRONICOS,LG,4095.87,-5,2025-09-07T00:00:00
+152,Vaso Decorativo 55 Trinity,decoracao,Trinity,"R$ 2.778,09",348,15/08/2023
+274,Fone de Ouvido Bluetooth 3 Philips,eletronicos,Philips,"8846,99",-5,18-12-2023
+241,Luminária de Mesa 1 Trinity,DecoraÃ§Ã£o,Trinity,4393.45,430,27/10/2025
+167,Cama Box Casal 55 Rudnick,MOVEIS,Rudnick,7090.8,,0000-00-00
+451,SSD 50GB Samsung,Informática,Samsung,2286.42,-1,09/09/2025
+472,Caixa de Som 12W Philips,ELETRONICOS,Philips,"R$ 2.467,55",136,09/20/2024
+16,Estante 55 prateleiras Artely,MOVEIS,Artely,8894.42,-1,21-06-2024
+360,Geladeira Frost Free 512L Consul,ELETRODOMESTICOS,Consul,"R$ 2.374,08",-5,2024/04/20
+70,Monitor 256pol Dell,Informática,Dell,,296,25/10/2023 00:00
+170,Cama Box Casal 40 Artely,Moveis,Artely,5984.16,,08/01/2025
+559,Vaso Decorativo 128 GenÃ©rico,DECORACAO,Genérico,"R$ 8.940,00",-5,2025/04/10
+517,Luminária de Mesa 4 Kappesberg,decoracao,Kappesberg,2763.61,-1,2024-11-23T00:00:00
+374,Guarda-roupa 6 portas Madesa,moveis,Madesa,3096.85,-5,0000-00-00
+553,LuminÃ¡ria de Mesa 2 Trinity,DecoraÃ§Ã£o,Trinity,3071.49,-5,23-07-2025
+401,Vaso Decorativo 3 Kappesberg,DecoraÃ§Ã£o,Kappesberg,639.12,437,2025-02-21T00:00:00
+366,Monitor 128pol Lenovo,informatica,Lenovo,"8167,36",-5,2025-11-26
+443,Micro-ondas 128L Samsung,eletrodomesticos,Samsung,"R$ 380,45",14,2025/12/07
+491,Soundbar 512 LG,Eletrônicos,LG,8692.24,-5,03-09-2024
+196,Soundbar 3 Multilaser,Eletrônicos,Multilaser,6051.22,-1,2025-02-09
+503,Ar Condicionado 32BTUs Brastemp,ELETRODOMESTICOS,Brastemp,"1842,17",-5,06/26/2024
+268,Soundbar 2 Multilaser,eletronicos,Multilaser,4666.05,-1,2025/06/08
+407,Rack para TV 1 Rudnick,MÃ³veis,Rudnick,2626.33,-1,25-04-2026
+259,SSD 6GB Lenovo,informatica,Lenovo,"R$ 1.714,94",,2025-05-08
+277,Luminária de Mesa 50 Casa Store,DECORACAO,Casa Store,885.57,-1,2026-01-18T00:00:00
+550,Vaso Decorativo 128 Kappesberg,DECORACAO,Kappesberg,2819.25,-5,05/20/2024
+541,Quadro Decorativo 40 Casa Store,decoracao,Casa Store,"6792,15",-5,10/13/2024
+29,Luminária de Mesa 12 Trinity,decoracao,Trinity,"R$ 3.418,92",-5,21/05/2025 00:00
+215,SSD 55GB Lenovo,informatica,Lenovo,"6938,25",,10/17/2023
+292,Notebook 128pol Dell,Informática,Dell,8672.47,-5,2026-04-28
+250,Quadro Decorativo 6 Trinity,DECORACAO,Trinity,,437,10-12-2023
+255,Rack para TV 4 Genérico,moveis,Genérico,1254.84,,25-01-2026
+92,Rack para TV 8 GenÃ©rico,moveis,Genérico,4665.36,-5,02/10/2025 00:00
+421,Teclado Mecânico 32 Acer,informatica,Acer,"R$ 3.184,05",310,10/04/2026 00:00
+543,Soundbar 40 Multilaser,Eletrônicos,Multilaser,6748.44,373,0000-00-00
+591,Estante 4 prateleiras Madesa,moveis,Madesa,"2984,49",,
+225,LuminÃ¡ria de Mesa 2 Kappesberg,decoracao,Kappesberg,"R$ 6.252,28",-5,2024/09/17
+275,Soundbar 128 Philips,EletrÃ´nicos,Philips,7725.55,406,04/21/2025
+269,Notebook 12pol Multilaser,Informática,Multilaser,1113.44,-5,30/09/2025 00:00
+478,Estante 2 prateleiras Móveis Bento,Móveis,Móveis Bento,3250.58,314,10/08/2023 00:00
+99,Geladeira Frost Free 512L Consul,ELETRODOMESTICOS,Consul,"R$ 5.733,13",,2024-01-09
+10,Luminária de Mesa 512 Kappesberg,DECORACAO,Kappesberg,,-1,08/10/2024
+40,Rack para TV 1 Rudnick,Moveis,Rudnick,5965.86,,2024/07/20
+370,Quadro Decorativo 6 Casa Store,DECORACAO,Casa Store,"2303,8",273,26/08/2023
+338,Notebook 6pol Samsung,INFORMATICA,Samsung,"R$ 4.037,33",106,2024/12/14
+229,Geladeira Frost Free 1L Brastemp,Eletrodomésticos,Brastemp,1507.94,416,27/11/2025
+300,Vaso Decorativo 6 Kappesberg,DECORACAO,Kappesberg,7162.06,-5,2023-11-06
+101,Geladeira Frost Free 55L Electrolux,Eletrodomésticos,Electrolux,3910.76,,14-11-2023
+399,Estante 512 prateleiras Móveis Bento,MÃ³veis,Móveis Bento,"2904,83",246,2025/05/25
+209,Monitor 12pol Samsung,Informática,Samsung,4112.15,-5,2023-09-06
+228,Rack para TV 256 Genérico,Móveis,Genérico,"R$ 3.334,77",-5,2024-11-25T00:00:00
+154,Mesa de jantar 256 lugares Rudnick,Moveis,Rudnick,5996.4,403,2024/12/29
+226,Smart TV 40pol Samsung,Eletrônicos,Samsung,3838.19,289,2024-10-14
+249,Monitor 40pol Samsung,Informática,Samsung,"4140,6",-5,21/02/2026
+341,Vaso Decorativo 512 Casa Store,DECORACAO,Casa Store,"2002,76",-5,25/11/2024 00:00
+245,Luminária de Mesa 8 Kappesberg,Decoração,Kappesberg,7078.01,-1,01/02/2024
+576,Cama Box Casal 12 Móveis Bento,Moveis,Móveis Bento,"R$ 2.222,81",-5,12/05/2024
+502,Geladeira Frost Free 32L LG,ELETRODOMESTICOS,LG,6469.43,96,
+121,Guarda-roupa 2 portas Genérico,Móveis,Genérico,6549.56,152,2025/10/11
+514,Caixa de Som 2W Multilaser,eletronicos,Multilaser,,319,2025-08-20T00:00:00
+35,SSD 8GB Dell,INFORMATICA,Dell,7237.87,-5,10/31/2023
+322,Monitor 128pol Dell,INFORMATICA,Dell,"R$ 1.591,10",-5,25-10-2025
+133,Tapete 2x1 Kappesberg,DecoraÃ§Ã£o,Kappesberg,2926.31,,11/07/2025 00:00
+124,Smart TV 12pol Philips,Eletrônicos,Philips,,,19/04/2025
+202,Estante 50 prateleiras Artely,MOVEIS,Artely,1288.94,-5,2025-11-20T00:00:00
+272,Caixa de Som 65W Samsung,Eletrônicos,Samsung,"5207,45",437,04/14/2024
+247,Teclado MecÃ¢nico 128 Lenovo,Informática,Lenovo,6852.42,-1,2024-10-03T00:00:00
+240,Micro-ondas 3L Electrolux,Eletrodomésticos,Electrolux,8151.79,388,03/24/2025
+282,Vaso Decorativo 40 Kappesberg,DecoraÃ§Ã£o,Kappesberg,3989.83,-5,06/08/2025 00:00
+45,Rack para TV 128 Politorno,Móveis,Politorno,7724.48,-5,0000-00-00
+56,Estante 32 prateleiras Artely,MÃ³veis,Artely,"R$ 4.347,07",476,07/01/2024
+578,Geladeira Frost Free 8L Samsung,eletrodomesticos,Samsung,7493.63,-5,2024/04/01
+107,Micro-ondas 4L LG,eletrodomesticos,LG,2796.12,,2023-10-22
+454,Quadro Decorativo 8 Kappesberg,decoracao,Kappesberg,2462.45,-5,2025-06-05
+252,SSD 512GB Dell,INFORMATICA,Dell,"5276,25",-5,06/10/2023
+267,Geladeira Frost Free 256L Brastemp,Eletrodomésticos,Brastemp,775.28,115,14/07/2025
+342,LuminÃ¡ria de Mesa 3 Kappesberg,Decoração,Kappesberg,"7336,41",-1,31-01-2024
+94,Rack para TV 55 Madesa,MOVEIS,Madesa,"R$ 7.503,80",,23/03/2024 00:00
+74,Quadro Decorativo 4 Trinity,DecoraÃ§Ã£o,Trinity,3345.48,-5,05/06/2025
+178,Monitor 4pol Positivo,INFORMATICA,Positivo,"R$ 6.427,90",,2023/08/10
+205,Micro-ondas 1L Consul,eletrodomesticos,Consul,293.51,-5,25-01-2025
+47,Fone de Ouvido Bluetooth 50 Philips,Eletrônicos,Philips,5004.05,-5,2023-10-23
+186,Mesa de jantar 1 lugares Madesa,MÃ³veis,Madesa,3214.94,-5,
+527,Ar Condicionado 512BTUs Electrolux,Eletrodomésticos,Electrolux,1817.5,9,2026-03-14T00:00:00
+287,Máquina de Lavar 8Kg Consul,Eletrodomésticos,Consul,"R$ 4.214,43",,2026-01-02
+343,Monitor 12pol Acer,Informática,Acer,"R$ 7.499,05",-5,05-10-2024
+316,SSD 8GB Positivo,INFORMATICA,Positivo,5403.95,,2025/05/02
+335,Notebook 50pol Dell,INFORMATICA,Dell,"R$ 2.595,16",-5,10-02-2024
+434,SSD 512GB Multilaser,informatica,Multilaser,8193.83,106,2026-06-16
+66,Smart TV 8pol Samsung,ELETRONICOS,Samsung,"3755,68",-1,22/09/2024 00:00
+349,Luminária de Mesa 1 Kappesberg,DecoraÃ§Ã£o,Kappesberg,"2857,78",-5,2024/09/06
+276,Geladeira Frost Free 8L LG,ELETRODOMESTICOS,LG,"R$ 2.080,40",89,24/02/2026
+574,Caixa de Som 8W LG,Eletrônicos,LG,,497,2024-07-04T00:00:00
+136,Cama Box Casal 50 Móveis Bento,Móveis,Móveis Bento,"R$ 1.658,27",-1,08/10/2023
+248,Tapete 55x1 Genérico,DecoraÃ§Ã£o,Genérico,777.83,324,2024-08-11
+586,Rack para TV 1 Móveis Bento,moveis,Móveis Bento,1375.0,19,10/01/2024
+141,Vaso Decorativo 256 Kappesberg,Decoração,Kappesberg,,-1,20-08-2025
+539,Notebook 8pol Multilaser,INFORMATICA,Multilaser,3198.82,216,2024-05-29T00:00:00
+573,Tapete 40x2 Trinity,DECORACAO,Trinity,"R$ 548,89",-5,2026/03/07
+90,Soundbar 4 Philips,Eletrônicos,Philips,2783.99,-1,2023-07-26
+376,Micro-ondas 1L Electrolux,Eletrodomésticos,Electrolux,5788.71,-1,20/05/2026 00:00
+307,Luminária de Mesa 1 Trinity,DECORACAO,Trinity,"R$ 3.296,97",-5,2025/03/04
+404,Micro-ondas 1L Consul,ELETRODOMESTICOS,Consul,834.63,-5,03/10/2026
+381,Máquina de Lavar 65Kg LG,eletrodomesticos,LG,6173.28,-1,2025-12-28
+450,Caixa de Som 32W Philips,ELETRONICOS,Philips,"R$ 8.389,55",-1,
+347,Teclado Mecânico 512 Lenovo,informatica,Lenovo,5967.76,,2025-07-19
+592,Rack para TV 12 Móveis Bento,MÃ³veis,Móveis Bento,"R$ 416,32",431,09/02/2024 00:00
+448,Caixa de Som 6W Multilaser,Eletrônicos,Multilaser,5352.68,-5,16/07/2023 00:00
+293,Monitor 6pol Positivo,Informática,Positivo,3743.82,-1,25/02/2026
+546,Soundbar 32 Sony,ELETRONICOS,Sony,"5208,19",54,2026-03-10T00:00:00
+368,Caixa de Som 6W Multilaser,Eletronicos,Multilaser,7061.5,,11-12-2024
+452,Caixa de Som 40W AOC,ELETRONICOS,AOC,"1422,92",,05/11/2025
+499,Soundbar 3 Multilaser,Eletronicos,Multilaser,2413.43,172,2026-03-07
+37,Luminária de Mesa 65 Genérico,DECORACAO,Genérico,"R$ 2.800,61",,04/11/2025
+521,Caixa de Som 2W Samsung,EletrÃ´nicos,Samsung,121.59,361,2025-09-21T00:00:00
+429,Vaso Decorativo 8 Kappesberg,decoracao,Kappesberg,7254.05,,10/01/2025
+160,SSD 2GB Positivo,Informática,Positivo,6633.00,-5,2025-02-17T00:00:00
+290,Geladeira Frost Free 1L LG,Eletrodomésticos,LG,1956.22,,07/21/2023
+518,Soundbar 256 Sony,eletronicos,Sony,"R$ 3.610,54",13,2023-07-18T00:00:00
+301,Mesa de jantar 512 lugares Madesa,Móveis,Madesa,8213.22,26,2024/06/09
+120,Tapete 40x3 Genérico,Decoração,Genérico,"R$ 3.193,48",-5,0000-00-00
+284,SSD 32GB Acer,Informática,Acer,793.7,,
+191,Micro-ondas 40L Samsung,ELETRODOMESTICOS,Samsung,"R$ 7.430,91",-1,13/08/2023 00:00
+210,Caixa de Som 2W LG,Eletronicos,LG,"549,11",-1,2025-12-09
+333,Mesa de jantar 1 lugares Rudnick,moveis,Rudnick,1249.45,-5,2024-10-09
+398,Ar Condicionado 32BTUs Samsung,Eletrodomésticos,Samsung,"R$ 2.062,87",-5,10/05/2024 00:00
+385,Monitor 6pol Acer,Informática,Acer,"5765,52",-1,18/08/2024 00:00
+278,Mesa de jantar 4 lugares Rudnick,Móveis,Rudnick,"3993,82",-5,23/02/2025
+488,Micro-ondas 12L Consul,eletrodomesticos,Consul,"R$ 5.108,73",-5,24-07-2024
+504,Vaso Decorativo 2 Trinity,DecoraÃ§Ã£o,Trinity,"R$ 7.915,54",-1,
+431,Notebook 65pol Lenovo,Informática,Lenovo,"7857,47",439,10-04-2024
+375,Vaso Decorativo 1 Casa Store,decoracao,Casa Store,"R$ 2.011,23",,0000-00-00
+494,Máquina de Lavar 50Kg Brastemp,Eletrodomésticos,Brastemp,"R$ 2.277,51",-5,0000-00-00
+477,Teclado Mecânico 12 Samsung,informatica,Samsung,"7099,3",-5,
+565,Luminária de Mesa 8 Kappesberg,Decoração,Kappesberg,2104.35,382,2026-01-25
+145,Luminária de Mesa 55 Trinity,DECORACAO,Trinity,"R$ 5.188,17",-5,
+198,Soundbar 12 AOC,EletrÃ´nicos,AOC,8975.07,-1,2025-12-24T00:00:00
+532,Teclado Mecânico 40 Samsung,INFORMATICA,Samsung,"R$ 8.593,57",475,2024-05-04
+286,Notebook 3pol Lenovo,INFORMATICA,Lenovo,"5770,58",-1,2025-02-27
+157,Geladeira Frost Free 8L Consul,Eletrodomésticos,Consul,1440.12,-5,13-04-2026
+222,Smart TV 12pol Multilaser,eletronicos,Multilaser,4627.78,322,2025-08-09
+5,Vaso Decorativo 3 Trinity,DecoraÃ§Ã£o,Trinity,3097.17,484,2024/10/08
+190,Rack para TV 4 Politorno,moveis,Politorno,4360.07,,2026-03-18T00:00:00
+468,Smart TV 128pol Samsung,eletronicos,Samsung,"5395,92",-1,31-07-2024
+567,Guarda-roupa 40 portas Artely,moveis,Artely,7979.24,-1,
+402,Quadro Decorativo 2 Casa Store,Decoração,Casa Store,1582.7,-1,16-06-2024
+490,Teclado Mecânico 55 Acer,Informática,Acer,"R$ 3.156,06",376,0000-00-00
+233,Ar Condicionado 8BTUs Electrolux,eletrodomesticos,Electrolux,"2852,75",-5,24/08/2023
+121,Guarda-roupa 2 portas Genérico,Móveis,Genérico,5148.96,152,2025/10/11
+30,Micro-ondas 256L Electrolux,Eletrodomésticos,Electrolux,8719.29,,26-11-2025
+471,Geladeira Frost Free 40L LG,ELETRODOMESTICOS,LG,8469.91,152,2024/12/22
+199,Micro-ondas 32L LG,ELETRODOMESTICOS,LG,"R$ 3.836,51",-1,06/12/2023 00:00
+329,Cama Box Casal 128 Genérico,Móveis,Genérico,605.88,-1,
+579,Ar Condicionado 65BTUs Samsung,ELETRODOMESTICOS,Samsung,3049.68,497,05/07/2026
+218,Mesa de jantar 40 lugares Rudnick,moveis,Rudnick,"8618,88",434,11-10-2024
+184,Máquina de Lavar 1Kg Consul,Eletrodomésticos,Consul,6241.28,475,23-07-2025
+554,Guarda-roupa 8 portas Politorno,moveis,Politorno,3997.01,292,11/04/2024
+327,Mesa de jantar 12 lugares Artely,moveis,Artely,8279.01,,03/03/2026
+462,Fone de Ouvido Bluetooth 3 Samsung,ELETRONICOS,Samsung,"R$ 1.836,87",220,2024/12/03
+117,Quadro Decorativo 65 Casa Store,decoracao,Casa Store,"R$ 3.415,02",424,07/05/2024
+168,Rack para TV 40 Madesa,Moveis,Madesa,2077.23,-1,2023-12-15
+23,Máquina de Lavar 4Kg Samsung,Eletrodomésticos,Samsung,"R$ 2.878,00",-1,04-10-2024
+192,Teclado MecÃ¢nico 50 Dell,informatica,Dell,5157.95,-1,11/04/2024
+159,Guarda-roupa 40 portas Madesa,MÃ³veis,Madesa,"R$ 1.875,72",-1,23-01-2025
+445,Caixa de Som 55W Samsung,eletronicos,Samsung,3405.92,-5,
+382,Smart TV 55pol Multilaser,Eletrônicos,Multilaser,3581.28,-5,07/09/2024 00:00
+509,Teclado Mecânico 55 Acer,informatica,Acer,3923.09,-5,2024-02-10
+161,Micro-ondas 512L Electrolux,Eletrodomésticos,Electrolux,6600.09,115,2025-04-01
+460,Guarda-roupa 55 portas Rudnick,Moveis,Rudnick,"8753,68",330,2024/09/19
+384,Quadro Decorativo 40 Kappesberg,DecoraÃ§Ã£o,Kappesberg,825.01,,0000-00-00
+43,Micro-ondas 1L LG,ELETRODOMESTICOS,LG,"R$ 1.770,82",257,2024-08-18
+244,Geladeira Frost Free 2L LG,eletrodomesticos,LG,7046.48,-1,2025-04-18
+392,Máquina de Lavar 512Kg Electrolux,eletrodomesticos,Electrolux,5048.23,-5,2024-11-03
+437,Notebook 65pol Samsung,informatica,Samsung,8834.34,-1,10/04/2026
+353,Quadro Decorativo 8 Trinity,Decoração,Trinity,6625.26,,0000-00-00
+76,Geladeira Frost Free 1L Consul,Eletrodomésticos,Consul,5004.19,197,2026-02-20
+281,Ar Condicionado 4BTUs Electrolux,Eletrodomésticos,Electrolux,"3960,95",-1,2023-11-25T00:00:00
+305,Cama Box Casal 12 Madesa,Móveis,Madesa,6618.65,371,
+263,Rack para TV 6 Artely,MÃ³veis,Artely,5097.0,363,2026-01-18
+57,Monitor 256pol Multilaser,informatica,Multilaser,"R$ 7.928,73",455,21/04/2025 00:00
+25,Vaso Decorativo 2 Genérico,Decoração,Genérico,"R$ 4.458,68",-5,
+24,Fone de Ouvido Bluetooth 3 Sony,Eletronicos,Sony,4770.98,,2025-01-10
+383,Teclado Mecânico 128 Positivo,INFORMATICA,Positivo,4632.23,,28-01-2025
+352,Fone de Ouvido Bluetooth 1 LG,ELETRONICOS,LG,"R$ 4.971,18",337,25-08-2025
+465,SSD 512GB Dell,informatica,Dell,1124.98,,10/22/2023
+355,Tapete 3x3 Casa Store,DecoraÃ§Ã£o,Casa Store,8003.24,-5,02/23/2025
+27,Luminária de Mesa 512 Casa Store,DECORACAO,Casa Store,"4291,02",-1,2024/02/06
+540,Rack para TV 256 Artely,MOVEIS,Artely,,-1,05/17/2024
+146,Tapete 256x3 Kappesberg,DECORACAO,Kappesberg,"988,01",38,02/03/2026
